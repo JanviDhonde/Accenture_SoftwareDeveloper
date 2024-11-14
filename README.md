@@ -1,7 +1,7 @@
 ## Accenture North America Coding: Development & Advanced Engineering Job Simulation
 
 **Accenture_Coding   Development & Advanced Engineering:** <br>
-I recently completed the Accenture North America Coding: Development & Advanced Engineering Job Simulation, where I honed my skills in Agile, Java, Spring Boot, Jenkins, and CI/CD practices. I contributed to a client project, focusing on sprint planning, code refactoring, and setting up automated builds, enhancing my software engineering expertise.
+I recently completed the Accenture North America Coding: Development & Advanced Engineering Job Simulation, where I honed my skills in Agile, Java, Spring Boot, Jenkins, and CI/CD practices. I contributed to a client project, focusing on sprint planning, code refactoring, and setting up automated builds, enhancing my software engineering expertise..
 
 **Repository Overview:**  
 This repository documents my experience during the **Accenture North America Coding: Development & Advanced Engineering Job Simulation**. The program provided valuable insights into the daily responsibilities of a software engineering team, focusing on real-world technical challenges faced by clients. I worked on a series of tasks that allowed me to enhance my skills in Java, Spring Boot, Jenkins, Agile, and DevOps practices.
