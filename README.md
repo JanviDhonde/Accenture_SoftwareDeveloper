@@ -1,44 +1,43 @@
-## Accenture Developer Software Engineering Job Simulation
-**Accenture_SoftwareEngineer:** <br>
-I completed the Accenture Nordics Developer Software Engineering Job Simulation where I strengthened my skills in Agile development, programming, debugging, and testing. I gained hands-on experience in software architecture and security, as well as working with SDLC models (Agile &amp; Waterfall), enhancing my software engineering capabilities.
+## Accenture North America Coding: Development & Advanced Engineering Job Simulation
+
+**Accenture_Coding   Development & Advanced Engineering:** <br>
+I recently completed the Accenture North America Coding: Development & Advanced Engineering Job Simulation, where I honed my skills in Agile, Java, Spring Boot, Jenkins, and CI/CD practices. I contributed to a client project, focusing on sprint planning, code refactoring, and setting up automated builds, enhancing my software engineering expertise.
 
 **Repository Overview:**  
-This repository highlights my experience during the **Accenture Nordics Developer Software Engineering Job Simulation**. The program provided an in-depth experience into the core aspects of software engineering, including architecture, security, programming, testing, and agile methodologies. I worked on tasks that replicated the daily work of Accenture's developer team, gaining hands-on experience and strengthening my skills in these areas.
+This repository documents my experience during the **Accenture North America Coding: Development & Advanced Engineering Job Simulation**. The program provided valuable insights into the daily responsibilities of a software engineering team, focusing on real-world technical challenges faced by clients. I worked on a series of tasks that allowed me to enhance my skills in Java, Spring Boot, Jenkins, Agile, and DevOps practices.
 
 **Simulation Highlights:**
 
-1. **Agile Methodology**  
-   - Gained practical insights into Agile development practices, including sprint planning, task prioritization, and iterative development.
+1. **Agile Methodology & Sprint Planning**  
+   - Participated in an Agile planning session, writing user stories to prepare for the sprint and managing the workload to ensure timely delivery.
    
-2. **Software Architecture & Security**  
-   - Learned key software architecture principles, including designing scalable and secure systems to meet business requirements and ensure data protection.
+2. **Java & Spring Boot Development**  
+   - Wrote a class to implement search functionality for an interactive website using Java and the Spring Boot framework, solidifying my understanding of object-oriented programming (OOP).
 
-3. **Programming & Debugging**  
-   - Practiced writing and debugging code, strengthening my proficiency in various programming languages while ensuring functionality, performance, and security.
+3. **Continuous Integration & Jenkins**  
+   - Set up automated builds with Jenkins to validate code changes on every push, ensuring continuous integration and preventing integration issues.
 
-4. **Testing & Quality Assurance**  
-   - Applied principles of software testing, ensuring that software is developed and maintained to meet high-quality standards through various testing frameworks.
-
-5. **Maturity Level Assessments & SDLC**  
-   - Evaluated the maturity level of existing software development processes, gaining an understanding of the Software Development Life Cycle (SDLC) and its stages (Agile and Waterfall).
+4. **Code Refactoring & Software Development Lifecycle (SDLC)**  
+   - Gained experience in refactoring code for optimization, and applied SDLC principles to develop a robust and maintainable codebase.
 
 **Skills Demonstrated:**  
-- **Agile Practices**: Developed an understanding of Agile methodology, sprint planning, and task management within an iterative development environment.
-- **Architecture & Security**: Enhanced skills in designing secure and scalable software architecture for enterprise solutions.
-- **Programming & Debugging**: Strengthened my ability to write, read, and debug code in various programming languages, ensuring optimal performance and security.
-- **Software Development Lifecycle (SDLC)**: Gained experience in both Agile and Waterfall SDLC approaches and their application in real-world projects.
-- **Maturity Level Assessments**: Assessed the maturity of development processes and applied improvements to enhance efficiency and effectiveness.
+- **Agile Methodology**: Gained proficiency in Agile development, including sprint planning and task management.
+- **Java & Spring Boot**: Enhanced my skills in Java and the Spring Boot framework, focusing on building scalable and efficient web applications.
+- **Continuous Integration (CI) with Jenkins**: Implemented CI processes using Jenkins to automate builds and improve software development efficiency.
+- **DevOps Practices**: Familiarized myself with DevOps methodologies, ensuring smooth collaboration between development and operations teams for streamlined software delivery.
+- **Code Refactoring & OOP**: Practiced code refactoring techniques to improve code quality and efficiency, while applying OOP principles to ensure maintainability.
 
 **Skills Developed:**  
-- **Agile & Waterfall Methodologies**: Gained proficiency in both Agile and Waterfall SDLCs, adapting development processes to project requirements.
-- **Software Testing**: Developed skills in testing methodologies, ensuring that the software meets quality standards.
-- **Problem-Solving & Debugging**: Enhanced my ability to analyze code and identify bugs, optimizing code performance and security.
-- **Collaboration & Communication**: Developed strong collaboration skills through team-based tasks, improving my ability to communicate technical concepts effectively.
+- **Java Programming**: Gained hands-on experience in Java, building a solid foundation in object-oriented programming.
+- **Spring Boot Framework**: Developed proficiency in Spring Boot, enabling the creation of scalable, production-ready web applications.
+- **Agile & SDLC**: Enhanced my understanding of Agile workflows and SDLC processes, applying them to real-world development projects.
+- **CI/CD & Jenkins**: Strengthened my DevOps skills by setting up automated CI/CD pipelines, improving the software development lifecycle.
+- **Problem-Solving & Collaboration**: Gained experience working collaboratively in a team environment, tackling complex technical problems and delivering solutions.
 
 **Objective:**  
-This repository reflects my ability to handle software engineering tasks within an Agile framework, applying best practices in architecture, security, programming, and testing. I am excited to apply these skills in real-world software development roles and contribute to innovative projects at a company like Accenture Nordics.
+This repository reflects my skills and experience gained during the Accenture North America job simulation, particularly in Agile development, Java programming, Spring Boot, Jenkins, and CI/CD practices. I am excited to apply these skills to real-world software engineering challenges and contribute to innovative solutions as part of a team at Accenture.
 
 **Simulation Details:**  
-Completed via **Accenture Nordics Software Engineering Job Simulation** on Forage  
+Completed via **Accenture North America Coding: Development & Advanced Engineering Job Simulation** on Forage  
 **Certificate of Completion Issued by:**  
-Forage in collaboration with Accenture Nordics
+Forage in collaboration with Accenture North America
